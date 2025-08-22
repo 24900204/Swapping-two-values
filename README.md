@@ -18,7 +18,16 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-
+```
+# Developed by: Rithika L
+# Regsiter No: 212224230231
+swap1=input()
+swap2=input()
+swap3=swap1
+swap1=swap2
+swap2=swap3
+print("Swapped values are:",swap1,swap2)
+```
 
 
 ## RESULT:
