@@ -28,6 +28,9 @@ swap1=swap2
 swap2=swap3
 print("Swapped values are:",swap1,swap2)
 ```
+## OUTPUT
+<img width="1261" height="405" alt="image" src="https://github.com/user-attachments/assets/935eec54-74c2-44af-98e1-804f8a330263" />
+
 
 
 ## RESULT:
